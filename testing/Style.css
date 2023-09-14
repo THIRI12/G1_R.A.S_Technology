@@ -1,0 +1,82 @@
+.title{
+    border: 1px solid black;
+    width: 100%;
+    height: 60px;
+    display: flex;
+}
+
+.header{
+    display: flex;
+}
+
+.c{
+    border: 1px solid black;
+    width: 16%;
+    height: 12vw;
+}
+
+.ch{
+    border: 1px solid black;
+    width: 84%;
+    height: 12vw;
+}
+
+.tab{
+    border: 1px solid black;
+    width: 100%;
+    height: 60px;
+    display: flex;
+}
+
+.web, .home, .Aitech, .services, .signlog{
+    border: 1px solid black;
+    width: 20vw;
+    height: 60px;
+}
+
+.div{
+    border: 1px solid black;
+    width: 100%;
+    height: 8000px;
+}
+
+.child1{
+    border: 1px solid black;
+    width: 100%;
+    height: 2000px;
+}
+
+.child2{
+    border: 1px solid black;
+    width: 100%;
+    height: 6000px;
+}
+
+.feedback{
+    border: 1px solid black;
+    width: 100%;
+    height: 100px;
+}
+
+.footer{
+    border: 1px solid black;
+    width: 100%;
+    height: 140px;
+    display: flex;
+}
+
+.ph{
+    width: 33%;
+    height: 140px;
+}
+
+.po{
+    width: 33%;
+    height: 140px;
+}
+
+.pr{
+    width: 33%;
+    height: 140px;
+}
+
